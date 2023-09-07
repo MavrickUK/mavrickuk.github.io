@@ -22,6 +22,9 @@
 # [finalbuilder.com]
 127.0.0.1 www.finalbuilder.com
 
+# [FileMenu Tools - lopesoft.com]
+127.0.0.1 www.lopesoft.com
+
 # [aomeitech.com]
 127.0.0.1 www.aomeitech.com
 127.0.0.1 www.diskpart.com
