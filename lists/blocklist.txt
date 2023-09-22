@@ -36,7 +36,7 @@
 127.0.0.1 account.jetbrains.com
 127.0.0.1 www.jetbrains.com
 
-# [Microsoft Stuff]
+# [Microsoft Stuff] - Gives a clean edge browser.
 127.0.0.1 data.microsoft.com
 127.0.0.1 msftconnecttest.com
 127.0.0.1 azureedge.net
@@ -47,9 +47,6 @@
 127.0.0.1 scorecardresearch.com
 127.0.0.1 edge.microsoft.com
 127.0.0.1 data.msn.com
-
-# [Recuva]
-127.0.0.1 license.piriform.com
 
 # [RollBack]
 127.0.0.1 www.eazsolution.com
