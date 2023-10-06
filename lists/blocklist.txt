@@ -13,6 +13,9 @@
 127.0.0.1 www.diskpart.com
 127.0.0.1 sn.aomeisoftware.com
 
+# [bitsum.com - Process Lasso]
+127.0.0.1 activate.bitsum.com
+
 # [Delphi - embarcadero]
 127.0.0.1 track.embarcadero.com
 127.0.0.1 license.embarcadero.com
