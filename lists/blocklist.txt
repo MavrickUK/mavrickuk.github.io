@@ -1,5 +1,4 @@
 # Mavrick's Blocklist
-# Blocking custom urls
 #
 # Fetch the latest version of this file:
 # https://
@@ -9,9 +8,9 @@
 ::1  localhost
 
 # [aomeitech.com]
+127.0.0.1 sn.aomeisoftware.com
 127.0.0.1 www.aomeitech.com
 127.0.0.1 www.diskpart.com
-127.0.0.1 sn.aomeisoftware.com
 
 # [bitsum.com - Process Lasso]
 127.0.0.1 activate.bitsum.com
@@ -40,16 +39,16 @@
 127.0.0.1 www.jetbrains.com
 
 # [Microsoft Stuff] - Gives a clean edge browser.
-127.0.0.1 data.microsoft.com
-127.0.0.1 msftconnecttest.com
-127.0.0.1 azureedge.net
 127.0.0.1 activity.windows.com
-127.0.0.1 bingapis.com
-127.0.0.1 msedge.net
 127.0.0.1 assets.msn.com
-127.0.0.1 scorecardresearch.com
-127.0.0.1 edge.microsoft.com
+127.0.0.1 azureedge.net
+127.0.0.1 bingapis.com
+127.0.0.1 data.microsoft.com
 127.0.0.1 data.msn.com
+127.0.0.1 edge.microsoft.com
+127.0.0.1 msedge.net
+127.0.0.1 msftconnecttest.com
+127.0.0.1 scorecardresearch.com
 
 # [RollBack]
 127.0.0.1 www.eazsolution.com
@@ -67,5 +66,9 @@
 127.0.0.1 updater.techsmith.com
 
 # [Uninstall Tool]
-127.0.0.1 crystalidea.com
 127.0.0.1 crl.sectigo.com
+127.0.0.1 crystalidea.com
+127.0.0.1 crystalidea.license-manager.com
+
+# [VMWare Workstation]
+127.0.0.1 softwareupdate.vmware.com
