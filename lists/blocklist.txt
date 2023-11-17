@@ -1,7 +1,7 @@
 # Mavrick's Blocklist
 #
 # Fetch the latest version of this file:
-# https://
+# https://mavrickuk.github.io/lists/blocklist.txt
 #
 
 127.0.0.1  localhost
@@ -68,6 +68,7 @@
 # [Uninstall Tool]
 127.0.0.1 crl.sectigo.com
 127.0.0.1 crystalidea.com
+127.0.0.1 crystalidea.license-manage.com
 127.0.0.1 crystalidea.license-manager.com
 
 # [VMWare Workstation]
