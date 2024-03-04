@@ -75,5 +75,5 @@
 # [VMWare Workstation]
 127.0.0.1 softwareupdate.vmware.com
 
-# [Blue Iris IP Camera software]
-127.0.0.1 blueirissoftware.com
+# [Beyond Compare]
+127.0.0.1 www.scootersoftware.com
