@@ -7,6 +7,15 @@
 127.0.0.1  localhost
 ::1  localhost
 
+# Adobe Blocklist
+# Add the following to pi-hole regex 'black-list'
+# ([?:\w+]{10}\.)+adobe\.io|([?:\w+]{11}\.)+prod\.cloud\.adobe\.io
+
+0.0.0.0 lcs-cops.adobe.io # REMOVE if app keeps quitting
+0.0.0.0 lcs-robs.adobe.io # directly involved in genuine pop ups
+0.0.0.0 ic.adobe.io
+0.0.0.0 p13n.adobe.io
+
 # [aomeitech.com]
 127.0.0.1 sn.aomeisoftware.com
 127.0.0.1 www.aomeitech.com
