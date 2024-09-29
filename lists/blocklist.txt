@@ -44,17 +44,6 @@
 # [FileMenu Tools - lopesoft.com]
 127.0.0.1 www.lopesoft.com
 
-# [ISOBuster - isobuster.com]
-127.0.0.1 isobuster.net
-127.0.0.1 www.isobuster.net
-127.0.0.1 cdrecovery.net
-127.0.0.1 www.cdrecovery.net
-127.0.0.1 isobuster.com
-127.0.0.1 www.isobuster.com
-127.0.0.1 smart-projects.net
-127.0.0.1 www.smart-projects.net
-127.0.0.1 pvh.smart-projects.biz
-
 # [jetbrains.com]
 127.0.0.1 account.jetbrains.com
 127.0.0.1 www.jetbrains.com
