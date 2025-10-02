@@ -25,15 +25,41 @@
 # [bitsum.com - Process Lasso]
 127.0.0.1 activate.bitsum.com
 
-# [Delphi - embarcadero]
-127.0.0.1 track.embarcadero.com
-127.0.0.1 license.embarcadero.com
+# [Delphi - Embarcadero]
+127.0.0.1 204.61.221.88
+127.0.0.1 appanalytics.embarcadero.com
+127.0.0.1 comapi.embarcadero.com
+127.0.0.1 daljwausv.radstudioxe.com
+127.0.0.1 delphiupdate.embarcadero.com
+127.0.0.1 embt.usertility.com
+127.0.0.1 external.ws.sanctx.embarcadero.com
+127.0.0.1 getit.embarcadero.com
+127.0.0.1 getit-1032.embarcadero.com
+127.0.0.1 getit-104.embarcadero.com
+127.0.0.1 getit-11.embarcadero.com
+127.0.0.1 getit-12.embarcadero.com
+127.0.0.1 getit12new.embarcadero.com
+127.0.0.1 getit-olympus.embarcadero.com
+127.0.0.1 ide.embarcadero.com
+127.0.0.1 installeranalytics.com
+127.0.0.1 installers.codegear.com
+127.0.0.1 installers.embarcadero.com
 127.0.0.1 license.codegear.com
-127.0.0.1 license-stage.codegear.com
-127.0.0.1 services.server.v8.srs.sanctuary.codegear.com
-127.0.0.1 LicenseUsageServicesImpl.services.server.v8.srs.sanctuary.codegear.com
-127.0.0.1 RegistrationServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 license.embarcadero.com
 127.0.0.1 LicenseRenewalServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 license-stage.codegear.com
+127.0.0.1 LicenseUsageServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 object.ws.sanctx.embarcadero.com
+127.0.0.1 radupdate.embarcadero.com
+127.0.0.1 RegistrationServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 rgquixsqb.radstudioxe.com
+127.0.0.1 services.server.v8.srs.sanctuary.codegear.com
+127.0.0.1 tempuri.org
+127.0.0.1 themindelectric.com
+127.0.0.1 track.embarcadero.com
+127.0.0.1 updates.embarcadero.com
+127.0.0.1 www.embarcadero.com
+127.0.0.1 www.themindelectric.com
 
 # [DisplayFusion]
 127.0.0.1 api.binaryfortress.com
